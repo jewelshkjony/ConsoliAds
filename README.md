@@ -11,6 +11,25 @@ An extension to monetize your application with Consoli ads.
 
 <a href="http://www.youtube.com/watch?v=nExp4zfb0xc" target="_blank"><img src="http://img.youtube.com/vi/nExp4zfb0xc/0.jpg" alt="ConsoliAds"/></a>
 
+## Bidding supported with
+
+<li> Admob
+<li> AdColony
+<li> UnityAds
+<li> Meta Audience Network (Faecbook)
+<li> AppLovin
+<li> Chartboost
+<li> IronSource
+<li> KidoZ
+<li> Mintegral
+<li> Mopub
+<li> StartApp (Start.io)
+<li> Tapjoy
+<li> Vungle
+<li> InMobi
+<li> Pangle
+<li> HuaweiAds
+
 ## Sdk Initialization
 ConsoliAds SDK needs to be explicitly initialized.
 
